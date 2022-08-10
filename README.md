@@ -27,10 +27,16 @@
 
 - `rm -rf fire`
 
-- `https://github.com/T0UF1Q/fire`
+- `https://github.com/RDX-TOUFIQ/fire`
 
 # Run Script
 
 - `cd fire`
 
 - `python Green.py`
+
+### IT’S RDX TOUFIQ BRAND      
+## CONTACT RDX TOUFIQ   
+ 1. [Facebook](https://www.facebook.com/Remember.This.Name.ToufiQ.K1NG)  
+ 2. [Facebook Page](https://www.facebook.com/RDX.T0UFIQ)  
+ 3. [Whatapp](https://wa.me/+8801812027446)
